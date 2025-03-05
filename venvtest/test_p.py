@@ -1,6 +1,6 @@
 # import pytest
 
-from defput import (
+from functions import (
     is_string,
     reverse_string,
     is_palindrome,
